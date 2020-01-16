@@ -1,8 +1,8 @@
 # FP Sneakers Discord Bot
 
 ### Note
-Since discord.py rewrite was release, some functions need to be fixed.  
-A few features are missing to do API changes.
+Since discord.py rewrite was released, some functions need to be fixed.  
+A few features are missing due to API changes.
 
 Command for checking product prices on StockX  
 <img src="https://i.imgur.com/ysb5XbD.png" width="70%">  
